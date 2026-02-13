@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Annabella 👋
 
-<!--
-**Annabella-bioinfo/Annabella-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biology graduate transitioning into **Bioinformatics & Computational Biology**.
 
-Here are some ideas to get you started:
+## 🔬 Background
+- BSc in Biology
+- Microbiology enthusiast
+- Undergraduate research on bacterial contamination
+- Data analytics training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current Focus
+- Learning Python for biological data analysis
+- Practicing data cleaning and visualization
+- Preparing for MSc Bioinformatics programs
+
+## 🧬 Interests
+- Genomics
+- Public health data
+- Applied bioinformatics
+- AI in biology
+
+## 🛠️ Tools (Developing)
+- Python
+- R (beginner)
+- Git & GitHub
+- Excel
