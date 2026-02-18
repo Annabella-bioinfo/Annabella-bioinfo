@@ -2,24 +2,24 @@
 
 Biology graduate transitioning into **Bioinformatics & Computational Biology**.
 
-## 🔬 Background
+## Background
 - BSc in Biology
 - Microbiology enthusiast
 - Undergraduate research on bacterial contamination
 - Data analytics training
 
-## 💻 Current Focus
+## Current Focus
 - Learning Python for biological data analysis
 - Practicing data cleaning and visualization
 - Preparing for MSc Bioinformatics programs
 
-## 🧬 Interests
+## Interests
 - Genomics
 - Public health data
 - Applied bioinformatics
 - AI in biology
 
-## 🛠️ Tools (Developing)
+## Tools (Developing)
 - Python
 - R (beginner)
 - Git & GitHub
