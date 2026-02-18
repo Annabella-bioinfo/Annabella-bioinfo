@@ -1,4 +1,4 @@
-# Hi, I'm Annabella 👋
+# Hi, I'm Annabella
 
 Biology graduate transitioning into **Bioinformatics & Computational Biology**.
 
