@@ -1,26 +1,21 @@
 # Hi, I'm Annabella
 
-Biology graduate transitioning into **Bioinformatics & Computational Biology**.
+I'm a data analyst with a biology background, based in Accra, Ghana. I work with health and genomics data, and I'm AWS certified.
 
-## Background
-- BSc in Biology
-- Microbiology enthusiast
-- Undergraduate research on bacterial contamination
-- Data analytics training
+## What I've worked on
+- **Regulatory Data Officer, Ghana Food and Drugs Authority**
+- **Medical Data Evaluator (remote), EvenUp Inc.**
+- Data analytics training through ALX Africa (Mastercard Foundation scholar)
 
-## Current Focus
-- Learning Python for biological data analysis
-- Practicing data cleaning and visualization
-- Preparing for MSc Bioinformatics programs
+## Projects
+- [mimic_health_analytics](https://github.com/Annabella-bioinfo/mimic_health_analytics): analysis of the MIMIC-IV clinical database using Python, SQL, and Power BI
+- [ghana-tb-africanum-analysis](https://github.com/Annabella-bioinfo/ghana-tb-africanum-analysis): Biopython analysis of M. africanum sequences from Ghanaian TB patients
 
-## Interests
-- Genomics
-- Public health data
-- Applied bioinformatics
-- AI in biology
+## Tools
+Python, SQL, Power BI, Biopython, Jupyter, Git, AWS
 
-## Tools (Developing)
-- Python
-- R (beginner)
-- Git & GitHub
-- Excel
+## What I'm interested in
+Using genomic and health data to track antimicrobial resistance in Ghana.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/annabellabaidenmensah/)
