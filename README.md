@@ -1,6 +1,6 @@
 # Hi, I'm Annabella
 
-I'm a data analyst with a biology background, based in Accra, Ghana. I work with health and genomics data, and I'm AWS certified.
+I'm a data analyst with a biology background. I work with health and genomics data, and I'm AWS certified.
 
 ## What I've worked on
 - **Regulatory Data Officer, Ghana Food and Drugs Authority**
